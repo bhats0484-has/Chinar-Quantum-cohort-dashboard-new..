@@ -1,0 +1,8 @@
+# Block real student data from being uploaded to GitHub
+data/
+*.csv
+
+# Block system caches
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
